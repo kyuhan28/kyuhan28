@@ -9,3 +9,5 @@ I am currently a Junior Computer Science Major attending the University of Pitts
   
 ## When I code, I rely on using:
 ` Python ` ` Java ` ` JavaScript ` ` C `
+
+I am open to learning more about various languages, data structures & algorithms, and machine learning.
