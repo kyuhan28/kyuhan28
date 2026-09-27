@@ -2,8 +2,8 @@
 Welcome to my GitHub! I am a kid who loves the technical side of computer science.
 
 ## About me:
-I am a current Junior Computer Science major attending the University of Pittsburgh! 
-  - ML/AI research on Medical Triaging across multiple Southeast Languages.
+I am a current Junior Computer Science major attending the University of Pittsburgh! Some roles I take part in currently:
+  - Database Analyst at the JFCS Squirrel Hill Food Pantry.
   - Teaching Assistant in multiple programming courses.
 ## When I code, I rely on using:
 ` Python ` ` Java ` ` JavaScript ` ` C `
