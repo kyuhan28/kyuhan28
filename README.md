@@ -1,10 +1,10 @@
 ## Hi there👋 I'm Kyu Han!
-Welcome to my GitHub!
+Welcome to my GitHub! I am a kid who loves the technical side of computer science.
 
 ## About me:
 I am currently a Junior Computer Science Major attending the University of Pittsburgh! 
   - ML/AI research on Medical Triaging across multiple Southeast Languages.
-  - Several AMD Certifications based on AMD AI, ML, LLMs, etc.
+  - Teaching Assistant in multiple programming courses.
     
   
 ## When I code, I rely on using:
