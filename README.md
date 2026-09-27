@@ -1,5 +1,5 @@
 ## Hi there👋 I'm Kyu Han!
-Welcome to my GitHub! I am a kid who loves the technical side of computer science.
+Welcome to my GitHub!
 
 ## About me:
 I am a current Junior Computer Science major attending the University of Pittsburgh! Some roles I take part in currently:
